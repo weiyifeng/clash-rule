@@ -2,6 +2,10 @@
 
 DOMAIN,yuna.net.cn
 DOMAIN-SUFFIX,yuna.net.cn
+DOMAIN,susyweiyi.eu.org
+DOMAIN-SUFFIX,susyweiyi.eu.org
+DOMAIN,eu.org
+DOMAIN-SUFFIX,eu.org
 PROCESS-NAME,aria2c
 PROCESS-NAME,BitComet
 PROCESS-NAME,fdm
