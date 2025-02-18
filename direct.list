@@ -6,6 +6,8 @@ DOMAIN,susyweiyi.eu.org
 DOMAIN-SUFFIX,susyweiyi.eu.org
 DOMAIN,eu.org
 DOMAIN-SUFFIX,eu.org
+DOMAIN,argotunnel.com
+DOMAIN-SUFFIX,argotunnel.com
 PROCESS-NAME,aria2c
 PROCESS-NAME,BitComet
 PROCESS-NAME,fdm
