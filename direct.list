@@ -1,7 +1,8 @@
 # 自用直连网站
-
-DOMAIN,yuna.net.cn
 DOMAIN-SUFFIX,yuna.net.cn
+DOMAIN-SUFFIX,hczq.com
+DOMAIN-SUFFIX,21tb.com
+DOMAIN-KEYWORD,hczq
 PROCESS-NAME,aria2c
 PROCESS-NAME,BitComet
 PROCESS-NAME,fdm
