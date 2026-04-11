@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,kooldns.cn
 DOMAIN-SUFFIX,tocmcc.cn
 DOMAIN-SUFFIX,hczq.com
 DOMAIN-SUFFIX,21tb.com
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-KEYWORD,hczq
 DOMAIN-KEYWORD,bing
 PROCESS-NAME,aria2c
